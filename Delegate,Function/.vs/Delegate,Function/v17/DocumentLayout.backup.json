@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\delegate,function\\delegate,function\\delegate,function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|solutionrelative:delegate,function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\delegate,function\\delegate,function\\delegate,function\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|solutionrelative:delegate,function\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\delegate,function\\delegate,function\\delegate,function\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEB39BE-2BA0-4430-B7C4-4F9372CFE09B}|Delegate,Function\\Delegate,Function.csproj|solutionrelative:delegate,function\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Exam.cs",
+              "RelativeDocumentMoniker": "Delegate,Function\\Exam.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Exam.cs",
+              "RelativeToolTip": "Delegate,Function\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:18:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Person.cs",
+              "RelativeDocumentMoniker": "Delegate,Function\\Person.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Person.cs",
+              "RelativeToolTip": "Delegate,Function\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:10:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate,Function\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Delegate,Function\\Delegate,Function\\Delegate,Function\\Program.cs*",
+              "RelativeToolTip": "Delegate,Function\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:04:56.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

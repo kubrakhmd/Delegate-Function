@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\bin\Debug\net8.0\Delegate,Function.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\bin\Debug\net8.0\Delegate,Function.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\bin\Debug\net8.0\Delegate,Function.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\bin\Debug\net8.0\Delegate,Function.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\bin\Debug\net8.0\Delegate,Function.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\refint\Delegate,Function.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\Delegate,Function.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Delegate,Function\Delegate,Function\Delegate,Function\obj\Debug\net8.0\ref\Delegate,Function.dll
